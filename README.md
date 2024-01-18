@@ -34,3 +34,6 @@ The Drum Kit is a fun project that allows users to simulate playing drums by pre
    ```bash
    git clone https://github.com/your-username/drum-kit.git
    ```
+
+## Link to the website
+[click here](https://sandeepgarikapati.github.io/Drum-kits/)
