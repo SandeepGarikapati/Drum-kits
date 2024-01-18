@@ -2,7 +2,7 @@
 
 This is a simple Drum Kit web application where you can play drums by pressing corresponding keys on your keyboard.
 
-![Drum Kit](./path/to/your/sample-image.png)
+![Drum Kit](./screenshot.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
