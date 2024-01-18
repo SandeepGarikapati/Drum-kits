@@ -31,7 +31,7 @@ The Drum Kit is a fun project that allows users to simulate playing drums by pre
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/drum-kit.git
    ```
 
