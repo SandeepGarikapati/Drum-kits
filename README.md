@@ -9,8 +9,7 @@ This is a simple Drum Kit web application where you can play drums by pressing c
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
